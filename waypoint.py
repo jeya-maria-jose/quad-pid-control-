@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#that has predefined waypoints and lands in the last waypoint
 # license removed for brevity
 import rospy
 from geometry_msgs.msg import Twist
